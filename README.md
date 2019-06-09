@@ -1,2 +1,2 @@
 # research-notebook
-This is my private research notebook.
+My private research notebook.
